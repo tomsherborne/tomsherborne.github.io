@@ -2,9 +2,16 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 ---
+### Spring 2020
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+* Teaching Assistant for _Natural Language Understanding, Generation and Machine Translation_
 
-Organize your courses by years, topics, or universities, however you like!
+	Designed coursework focusing on Attention in LSTMs and Transformers for an advanced level NLP course with 100+ students (coming to GitHub soon!). Also marking and demonstrating. 
+	
+### Autumn 2019
+
+* Tutor, Demonstrator and Exam Marker for _Accelerated Natural Language Processing_
+
+* Demonstrator for _Computer Programming for Speech and Language Processing_
