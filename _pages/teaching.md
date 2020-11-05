@@ -4,6 +4,11 @@ permalink: /teaching/
 title: teaching
 description: 
 ---
+### Autum 2020
+
+* Marker for _Accelerated Natural Language Processing_
+
+
 ### Spring 2020
 
 * Teaching Assistant for _Natural Language Understanding, Generation and Machine Translation_
