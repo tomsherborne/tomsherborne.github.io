@@ -20,5 +20,6 @@ I'm a third year PhD student in the [ILCC](http://web.inf.ed.ac.uk/ilcc) at Info
 
 I'm also part of the [CDT in Data Science](http://datascience.inf.ed.ac.uk) and [EdinburghNLP](https://edinburghnlp.inf.ed.ac.uk/). Previously, I was an intern at Siri Cambridge and I completed the MPhil in Computer Science at [The Computer Lab](https://www.cst.cam.ac.uk) -- working with [Ann Copestake](https://www.cl.cam.ac.uk/~aac10/) on multimodal semantics. My undergrad was at [UCL EEE](https://www.ucl.ac.uk/electronic-electrical-engineering/) -- working with [Polina Bayvel](https://www.ucl.ac.uk/electronic-electrical-engineering/people/prof-polina-bayvel) on hardware optimisation for optical signal processing.
 
-I’m interested in natural language understanding, machine learning, croissants and keeping up my 1000 day duolingo streak. I plan to complete my PhD in 2023 and then I will be on the job market. Ping me if you are looking for a new research colleague interested in NLU, robust evaluation of modelling, sane engineering in Python and multi-lingual approaches to human-computer interfaces. 
+I’m interested in natural language understanding, croissants and keeping up a >1000 day duolingo streak. 
 
+__Hire me!__:I plan to complete my PhD in early 2023 and then I will be on the job market. Ping me if you are looking for a new research colleague interested in NLU, OOD generalisation and latent structure in NLP, sane engineering in Python and multi-lingual approaches to human-computer interfaces. 
