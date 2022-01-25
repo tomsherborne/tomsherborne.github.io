@@ -22,4 +22,4 @@ I'm also part of the [CDT in Data Science](http://datascience.inf.ed.ac.uk) and 
 
 I’m interested in natural language understanding, croissants and keeping up a >1000 day duolingo streak. 
 
-__Hire me!__:I plan to complete my PhD in early 2023 and then I will be on the job market. Ping me if you are looking for a new research colleague interested in NLU, OOD generalisation and latent structure in NLP, sane engineering in Python and multi-lingual approaches to human-computer interfaces. 
+__Hire me!__    I will finish my PhD in early 2023 and then I will be on the job market. Ping me if you are looking for a new researcher interested in pragmatic NLU, generalisation challenges, latent structure in NLP, multi-lingual approaches to human-computer interfaces and good code.
