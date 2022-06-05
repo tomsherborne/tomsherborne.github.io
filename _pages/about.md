@@ -6,7 +6,7 @@ description: PhD student in NLP.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic22.JPG
   address: >
     <p>Informatics Forum</p>
     <p>10 Crichton St</p>
@@ -22,4 +22,4 @@ I'm also part of the [CDT in Data Science](http://datascience.inf.ed.ac.uk) and 
 
 I’m interested in natural language understanding, croissants and keeping up a >1000 day duolingo streak. 
 
-<!-- __Hire me!__   I plan to my PhD in 2023 and then I will be on the job market. [Ping me](mailto:tom.sherborne@ed.ac.uk) if you are looking for a new researcher interested in low-resource NLU, generalisation challenges and multi-lingual approaches to human-computer interfaces. If you are looking for an intern in 2022 for the same topics then let's talk! -->
+<!-- __Hire me!__   I plan to my PhD in 2023 and then I will be on the job market. [Ping me](mailto:tom.sherborne@ed.ac.uk) if you are looking for a new researcher interested in structured prediction, cross-lingual NLU and multi-lingual approaches to human-computer interfaces. -->
