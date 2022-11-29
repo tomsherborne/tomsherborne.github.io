@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>tom</strong> sherborne
-description: PhD student in NLP.
+description: PhD Candidate in NLP 
 
 profile:
   align: right
