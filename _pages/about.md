@@ -22,4 +22,4 @@ I'm also part of the [CDT in Data Science](http://datascience.inf.ed.ac.uk) and 
 
 I'm interested in multilinguality, cross-lingual knowledge transfer, structured prediction, croissants and kayaking.
 
-__Hire me!__   I am finishing up my PhD in 2023 and then I will be on the job market. [Ping me](mailto:tom.sherborne@ed.ac.uk) if you are looking for a new researcher interested in structured prediction, multi-lingual NLU and generalisation and training dynamics.
+__Hire me!__   I am finishing up my PhD in 2023 and then I will be on the job market. [Ping me](mailto:tom.sherborne@ed.ac.uk) if you are looking for a new researcher interested in structured prediction, multi-lingual NLU and generalisation/training dynamics.
