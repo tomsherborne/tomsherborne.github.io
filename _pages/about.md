@@ -22,4 +22,4 @@ I'm also part of the [CDT in Data Science](http://datascience.inf.ed.ac.uk) and 
 
 I'm interested in multilinguality, cross-lingual knowledge transfer, structured prediction, croissants and kayaking.
 
-_I'm on the job market_: I expect to finish my PhD around October 2023 and will be looking for postdoc/research scientist roles from then onwards. [Let me know](mailto:tom.sherborne@ed.ac.uk) if we can work together!
+_I'm on the job market_: I expect to finish my PhD near the end of 2023 and will be looking for postdoc/research scientist roles from then onwards. [Let me know](mailto:tom.sherborne@ed.ac.uk) if we can work together!
