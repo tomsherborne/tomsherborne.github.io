@@ -20,6 +20,4 @@ I'm a final year PhD Candidate in the [ILCC](http://web.inf.ed.ac.uk/ilcc) at Ed
 
 I'm also part of the [CDT in Data Science](http://datascience.inf.ed.ac.uk) and [EdinburghNLP](https://edinburghnlp.inf.ed.ac.uk/). Previously, I was an intern at Siri Cambridge and I completed the MPhil in Computer Science at [The Computer Lab](https://www.cst.cam.ac.uk) -- working with [Ann Copestake](https://www.cl.cam.ac.uk/~aac10/) on multimodal semantics. My undergrad was at [UCL EEE](https://www.ucl.ac.uk/electronic-electrical-engineering/) -- working with [Polina Bayvel](https://www.ucl.ac.uk/electronic-electrical-engineering/people/prof-polina-bayvel) on hardware optimisation for optical signal processing.
 
-I'm interested in cross-lingual transfer, optimization/information geometry, croissants and kayaking.
-
-_I'm on the job market_: I expect to finish my PhD near the end of 2023 and will be looking for postdoc/research scientist roles from then onwards. [Let me know](mailto:tom.sherborne@ed.ac.uk) if we can work together!
+I'm interested in cross-lingual transfer, optimization + information geometry, croissants and kayaking.
