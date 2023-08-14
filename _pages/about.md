@@ -6,7 +6,7 @@ description: PhD Candidate in NLP
 
 profile:
   align: right
-  image: prof_pic22.JPG
+  image: prof_pic23.JPG
   address: >
     <p>3.33 Informatics Forum</p>
     <p>10 Crichton St</p>
