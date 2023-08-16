@@ -16,8 +16,8 @@ news: true
 social: true
 ---
 
-I'm a final year PhD Candidate in the [ILCC](http://web.inf.ed.ac.uk/ilcc) at Edinburgh supervised by [Mirella Lapata](http://homepages.inf.ed.ac.uk/mlap/index.php?page=index) working on low-resource approaches to cross-lingual semantic parsing. I'll be spending April - July '23 at [AI2](https://allenai.org/allennlp) in Seattle.
+I'm a final year PhD Candidate in the [ILCC](http://web.inf.ed.ac.uk/ilcc) at Edinburgh supervised by [Mirella Lapata](http://homepages.inf.ed.ac.uk/mlap/index.php?page=index) working on low-resource approaches to cross-lingual semantic parsing. I am also interning at [AI2](https://allenai.org/allennlp) between April and October '23.
 
-I'm also part of the [CDT in Data Science](http://datascience.inf.ed.ac.uk) and [EdinburghNLP](https://edinburghnlp.inf.ed.ac.uk/). Previously, I was an intern at Siri Cambridge and I completed the MPhil in Computer Science at [The Computer Lab](https://www.cst.cam.ac.uk) -- working with [Ann Copestake](https://www.cl.cam.ac.uk/~aac10/) on multimodal semantics. My undergrad was at [UCL EEE](https://www.ucl.ac.uk/electronic-electrical-engineering/) -- working with [Polina Bayvel](https://www.ucl.ac.uk/electronic-electrical-engineering/people/prof-polina-bayvel) on hardware optimisation for optical signal processing.
+I'm part of the [CDT in Data Science](http://datascience.inf.ed.ac.uk) and [EdinburghNLP](https://edinburghnlp.inf.ed.ac.uk/). Previously, I was an intern at Siri Cambridge and I completed the MPhil in Computer Science at [The Computer Lab](https://www.cst.cam.ac.uk) --- working with [Ann Copestake](https://www.cl.cam.ac.uk/~aac10/) on multimodal semantics. My undergrad was at [UCL EEE](https://www.ucl.ac.uk/electronic-electrical-engineering/) --- working with [Polina Bayvel](https://www.ucl.ac.uk/electronic-electrical-engineering/people/prof-polina-bayvel) on hardware optimisation for optical signal processing.
 
 I'm interested in cross-lingual transfer, optimization + information geometry, croissants and kayaking.
