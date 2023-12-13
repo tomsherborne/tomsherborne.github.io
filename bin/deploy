@@ -3,6 +3,7 @@
 # Run this script to deploy the app to Github Pages
 
 # Parse cmd arguments
+rbenv local 2.7.5
 
 SRC_BRANCH="master"
 DEPLOY_BRANCH="gh-pages"
